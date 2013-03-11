@@ -5,6 +5,6 @@
   "description": "A basic Obj-C-like Retain/Release mechanism to ensure that objects are free'd when they are no longer in use",
   "keywords": ["object", "retain", "release", "usage"],
   "license": "MIT",
-  "src": ["cobject.h", "cobject.h"]
+  "src": ["cobject.c", "cobject.h"]
 }
 
