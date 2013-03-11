@@ -46,6 +46,12 @@ CObject is essentially a tiny copy of a much more complete [project](https://git
       return 0;
     }
 
+## INSTALLATION
+
+You can use [cpm][https://github.com/visionmedia/cpm] to install this package into your project.
+
+    $ cpm install ArtemTitoulenko/cobject
+
 ## BUILDING
 
   * `make` – builds the example
